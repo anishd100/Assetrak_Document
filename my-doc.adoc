@@ -1,4 +1,4 @@
-My-Doc
+
 ### 1.What is .NET Core Bundle?
 
 DotNET Core Bundle is used to distribute a set of .NET Core runtime and libraries as a single package to simplify deployment and make it easier to distribute applications.
